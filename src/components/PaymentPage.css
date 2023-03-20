@@ -1,0 +1,18 @@
+.main {
+  height: 25rem;
+  width: 20rem;
+  border-radius: 1rem;
+  /* transform: translate(-50%, -50%); */
+  border: 2px solid ghostwhite;
+
+  /* justify-content: center; */
+}
+
+.content {
+  margin: 5rem;
+  width: 50rem;
+  height: 20rem;
+  border: 2px solid beige;
+  border-radius: 1rem;
+  justify-content: space-between;
+}
